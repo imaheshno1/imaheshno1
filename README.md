@@ -8,7 +8,7 @@
 
 Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technology and innovation. I specialize in full-stack development, creating seamless and efficient applications. 
 
-__- 🧑🏻‍🎓 _I’m currently working on developing my skills as a Software Developer._
+- 🧑🏻‍🎓 _I’m currently working on developing my skills as a Software Developer._
 - 🧐 _I’m currently learning **Next.js and GraphQL**_
 - 👯 _I’m looking to collaborate on **Open Source Projects**_
 - 🖥️ _How to reach me: [mahesh.expertprofessional.gmail.com](mailto:your.email@example.com)_
