@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+# Welcome to My GitHub Profile! ![Profile Views](https://komarev.com/ghpvc/?username=imaheshno1&style=flat-square)
 
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76116lpmh9v6u5uzlct3l8m28vrquwmyw9ys3uqvpnnw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
