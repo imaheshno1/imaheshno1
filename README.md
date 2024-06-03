@@ -64,7 +64,7 @@ Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technol
 [![LeetCode](https://img.shields.io/badge/-Leetcode-333333?style=flat&logo=LeetCode)](https://leetcode.com/u/imaheshno1/)
 [![Portfolio](https://img.shields.io/badge/-PortFolio-333333?style=flat&logo=google-chrome)](https://mw69.framer.media/)
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <a href="https://github.com/imaheshno1/github-readme-streak-stats" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
     </a>
 </div>
