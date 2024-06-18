@@ -11,7 +11,7 @@ Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technol
 - 🧑🏻‍🎓 I’m currently working on developing my skills as a _Software Developer._
 - 🧐 I’m currently learning _**Next.js and GraphQL**_
 - 👯 I’m looking to collaborate on _**Open Source Projects**_
-- 🖥️ How to reach me: _[mahesh.expertprofessional.gmail.com](mailto:your.email@example.com)_
+- 🖥️ How to reach me: _[mahesh.expertprofessional@gmail.com](mailto:your.email@example.com)_
 - 🤖 Fun fact: I enjoy solving complex algorithms and unsolved problems.
 
 ## 🔧 Technologies & Tools
@@ -63,9 +63,11 @@ Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technol
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/imaheshno1/)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-333333?style=flat&logo=LeetCode)](https://leetcode.com/u/imaheshno1/)
 [![Portfolio](https://img.shields.io/badge/-PortFolio-333333?style=flat&logo=google-chrome)](https://mw69.framer.media/)
+
+
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/imaheshno1/github-readme-streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaheshno1&theme=dark" alt="Streak Stats" />
     </a>
 </div>
 
