@@ -46,13 +46,6 @@ Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technol
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
 
-## 📔 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaheshno1&show_icons=true&theme=radical" alt="imaheshno1's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ## 🌏 Connect with Me
 
