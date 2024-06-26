@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76116lpmh9v6u5uzlct3l8m28vrquwmyw9ys3uqvpnnw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
 </p>
 
-## 🦾 About Me
+## About Me
 
 Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technology and innovation. I specialize in full-stack development, creating seamless and efficient applications. 
 
 🖥️ How to reach me: _[mahesh.expertprofessional@gmail.com](mailto:your.email@example.com)_
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -47,7 +47,7 @@ Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technol
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
 
 
-## 🌏 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/imaheshno1/)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-333333?style=flat&logo=LeetCode)](https://leetcode.com/u/imaheshno1/)
