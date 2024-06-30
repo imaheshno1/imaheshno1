@@ -1,14 +1,14 @@
-#  welcome to my GitHub profile ![views count 🧐](https://komarev.com/ghpvc/?username=imaheshno1&style=flat-square)
+# welcome to my GitHub profile ![views count 🧐](https://komarev.com/ghpvc/?username=imaheshno1&style=flat-square)
+
+## About Me
+
+Hey! I'm Mahesh Subramanian, a passionate developer who loves technology and innovation. I specialize in full-stack development, creating seamless and efficient applications. 
+
+🖥️ How to reach me: [mahesh.expertprofessional@gmail.com](mailto:your.email@example.com)
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76116lpmh9v6u5uzlct3l8m28vrquwmyw9ys3uqvpnnw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
 </p>
-
-## About Me
-
-Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technology and innovation. I specialize in full-stack development, creating seamless and efficient applications. 
-
-🖥️ How to reach me: _[mahesh.expertprofessional@gmail.com](mailto:your.email@example.com)_
 
 ## Technologies & Tools
 
