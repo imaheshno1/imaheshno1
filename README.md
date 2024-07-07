@@ -53,7 +53,7 @@ How to reach me: [mahesh.expertprofessional@gmail.com](mailto:your.email@example
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/imaheshno1/github-readme-streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaheshno1&theme=dark" alt="Streak Stats" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaheshno1&theme=dark" alt="Streak Stats" />
     </a>
 </div>
 
