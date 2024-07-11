@@ -42,7 +42,6 @@ How to reach me: [mahesh.expertprofessional@gmail.com](mailto:your.email@example
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
 
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/imaheshno1/)
