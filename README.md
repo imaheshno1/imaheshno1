@@ -1,4 +1,4 @@
-# hello, how do you do?![views count 🧐](https://komarev.com/ghpvc/?username=imaheshno1&style=flat-square)  
+# hello, how do you do? ![views count 🧐](https://komarev.com/ghpvc/?username=imaheshno1&style=flat-square)  
 ## About Me
 Hey! I'm Mahesh Subramanian, a passionate developer who loves technology and innovation. I specialize in full-stack development, creating seamless and efficient applications. 
 
