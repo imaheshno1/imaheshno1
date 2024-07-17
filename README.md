@@ -1,5 +1,5 @@
 <h1 align="center">hey, i'm maheshwaran subramaian</h1>
-<h3 align="center">I'm Mahesh Subramanian, a tech-savvy wizard who conjures innovative solutions with code ✨. As a full-stack developer, I weave together seamless applications that delight users.</h3>
+<h3 align="center">a tech-savvy wizard who conjures innovative solutions with code. As a full-stack developer, I weave together seamless applications that delight users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaheshno1&label=Profile%20views&color=0e75b6&style=flat" alt="imaheshno1" /> </p>
 
