@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm maheshwaran subramaian</h1>
+<h1 align="center">hey, i'm maheshwaran subramanian</h1>
 <h3 align="center">a tech-savvy wizard who conjures innovative solutions with code. As a full-stack developer, I weave together seamless applications that delight users.</h3>
 <div align="center">
   
