@@ -1,7 +1,6 @@
 <h1 align="center">hey, i'm maheshwaran subramanian </h1>
 <h3 align="center">a tech-savvy wizard who conjures innovative solutions with code. As a full-stack developer, I weave together seamless applications that delight users.</h3>
 <div align="center">
-
   
 [![MasterHead](https://i.ibb.co/mv51DB9/274608182-68ba38fe-129a-4d85-be33-62eb4ba50c05.png)](https://github.com/imaheshno1)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SFProDisplay+Code&size=18&pause=1000&color=F7C700&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Subramanian.;Welcome+to+my+profile!)](https://git.io/typing-svg)
