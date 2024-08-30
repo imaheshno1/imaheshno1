@@ -248,10 +248,10 @@
 
   </g>
 
-  <!-- Hi, I'm Jason -->
+  <!-- Hi, I'm mahesh -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <rect width="152" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Mahesh</text>
   </g>
 
   <!-- typing 2 -->
@@ -272,10 +272,10 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- From Coimbatore... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
+    <rect width="407" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I live in Coimbatore, India – it’s supposed to be</text>
     <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
@@ -299,9 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for {psTime} now.</text>
+    <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Seeking opportunities to contribute, grow my skills</text>
+    <text x="15" y="50">within a dynamic technological environment.</text>
   </g>
 
   <!-- typing 4 -->
@@ -322,12 +322,12 @@
 
   </g>
 
-  <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+  <!-- LinkedIn -->
+   <g transform="translate(10, 192)" class="msg-4">
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      You can find me on LinkedIn at
+      <a xlink:href="https://www.linkedin.com/in/imaheshno1/">imaheshno1</a>
     </text>
   </g>
 
