@@ -250,8 +250,8 @@
 
   <!-- Hi, I'm mahesh -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="152" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Mahesh</text>
+    <rect width="166" height="42" rx="18.0355" />
+    <text x="15" y="27">Hey, I'm Mahesh</text>
   </g>
 
   <!-- typing 2 -->
