@@ -1,4 +1,4 @@
-name: Update readme
+name: Update README
 
 on:
   schedule:
@@ -11,23 +11,28 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
+      
+      - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: '14'  # Specify the Node.js version directly
+
       - run: npm install
 
-      - name: Generate readme
+      - name: Generate README
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         run: node build-svg.js
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "mahesh"
+          git config --global user.email "maheshwaranzzz1470@gmail.com"
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: mahesh
-          author_email: maheshwaranzzz1470@gmail.com
-          message: "Auto updating my readme"
-          add: "*.svg"
+          message: "Auto updating my README"
+          add: "."  # Include all changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
