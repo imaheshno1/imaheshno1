@@ -351,7 +351,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <rect width="223" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for stopping by</text>
   </g>
 
@@ -375,7 +375,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="223" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Open to collaborate !<tspan class="emoji"> 👨🏻‍💻</tspan></text>  
+    <rect width="249" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Open to collaborate !<tspan class="emoji"> 🤜🏻🤛🏻</tspan></text>  
   </g>
 </svg>
